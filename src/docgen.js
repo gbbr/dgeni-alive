@@ -1,3 +1,5 @@
+require('estraverse-fb');
+
 var Dgeni = require('dgeni');
 var Package = require('dgeni').Package;
 var path = require('path');
